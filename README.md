@@ -36,11 +36,3 @@ A beautiful, interactive Tic-Tac-Toe game built with React for two players on th
 
 3. Open your browser and navigate to `http://localhost:3000`
 
-## Technologies Used
-
-- React 18
-- Vite (build tool)
-- CSS3 with modern features
-- Responsive design
-
-Enjoy playing Tic-Tac-Toe! 🎮
