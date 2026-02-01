@@ -8,6 +8,11 @@
     "build": "npx vite build",
     "preview": "npx vite preview"
   },
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shonedo25/InternetApplications3"
+  },
+    "author": "Sean Nedorez",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
